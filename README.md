@@ -1,5 +1,10 @@
 # nut-switch 组件 change 事件参数验证失败
 
+## 运行代码
+
+- pnpm i
+- pnpm run dev:h5
+
 ## 描述
 
 ### 问题分析
